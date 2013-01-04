@@ -17,8 +17,12 @@ public class PointInCircle {
 		point = (Math.sqrt(x1 * x1 + y1  *y1));
 		System.out.println(point);
 		
-		//Prints whether the point is inside or outside the circle
+		//Prints whether the point is inside or outside the circle HEJ HEJ HEJ HEJ
 		if (point <= 10)
+			System.out.println("The point is inside the circle");
+			System.out.println("The point is inside the circle");
+			System.out.println("The point is inside the circle");
+			System.out.println("The point is inside the circle");
 			System.out.println("The point is inside the circle");
 		else System.out.println("The point is outside the circle");	
 		
